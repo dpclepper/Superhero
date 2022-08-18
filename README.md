@@ -1,2 +1,4 @@
-# Superhero
-Python ML modeling through sklearn, Tableau dashboards
+# Superhero Case Study
+**Python** ML modeling through sklearn
+
+**Tableau** dashboards
